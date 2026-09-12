@@ -37,12 +37,19 @@ I am a technical support engineer specialized in high-pressure troubleshooting, 
     * Operating Systems: Windows, Linux, Junos OS.
 
 ## Professional Certifications
- * [CCNA](https://www.credly.com/badges/fe3eea53-e2b5-44ec-b5a6-e8e7f00254aa/public_url)
- * [JNCIA-Junos](https://www.credly.com/badges/7a500177-227f-4693-9413-a7f1bcbd79a7/public_url)
- * [JNCIA-SEC](https://www.credly.com/badges/cc6ea4ec-3ba1-4e86-81df-d99a88672524/public_url)
- * [JNCIS-SEC](https://www.credly.com/badges/8c325a43-5e3d-4d31-935d-24621f05a29c/public_url)
- * [JNCIP-SEC](https://www.credly.com/badges/3dc956b9-975a-4a24-9f70-72708b3ee597/public_url)
- * [KCS](https://www.credly.com/badges/48c32eba-c498-405f-b339-cbe5e64317e5/public_url)
+ * [CCNA][ccna-link]
+ * [JNCIA-Junos][jncia-junos-link]
+ * [JNCIA-SEC][jncia-sec-link]
+ * [JNCIS-SEC][jncis-sec-link]
+ * [JNCIP-SEC][jncip-sec-link]
+ * [KCS][kcs-link]
+
+[ccna-link]: https://www.credly.com/badges/fe3eea53-e2b5-44ec-b5a6-e8e7f00254aa/public_url
+[jncia-junos-link]: https://www.credly.com/badges/7a500177-227f-4693-9413-a7f1bcbd79a7/public_url
+[jncia-sec-link]: https://www.credly.com/badges/cc6ea4ec-3ba1-4e86-81df-d99a88672524/public_url
+[jncis-sec-link]: https://www.credly.com/badges/8c325a43-5e3d-4d31-935d-24621f05a29c/public_url
+[jncip-sec-link]: https://www.credly.com/badges/3dc956b9-975a-4a24-9f70-72708b3ee597/public_url
+[kcs-link]: https://www.credly.com/badges/48c32eba-c498-405f-b339-cbe5e64317e5/public_url
 
 ## Technical Projects
  * [Log collector](https://github.com/rust-it-cr/log-collector): Python tool to parse and conveniently arrange logs for engineering investigations.
